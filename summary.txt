@@ -1,0 +1,17 @@
+The "Enterprise Supply Chain Performance Report 2025" highlights significant inefficiencies in the current supply chain system, characterized by execution variability, margin instability, and inconsistent operational control. Key findings include:
+
+1. **Delivery Performance**: 47% of orders experienced delays, leading to negative profit in approximately 60% of these cases. Late deliveries consistently result in higher operational costs and reduced margins, making delivery execution the most influential factor affecting profitability.
+
+2. **Margin Volatility**: Profitability shows high dispersion despite consistent product pricing. High discounts and delayed deliveries are core drivers of margin leakage, with discount rates reaching up to 16% without performance linkage.
+
+3. **Category and Regional Performance**: Sporting goods show high operational inconsistency, while electronics demonstrate stable profits with controlled delivery and moderate discounts. Regional execution variability is evident, with India and China experiencing higher delay frequencies and negative profit incidents compared to more stable regions like the USA and UK.
+
+4. **Discount Strategy**: Current discounting practices increase sales conversion but significantly reduce revenue quality and are not tied to delivery reliability or profit thresholds.
+
+5. **Shipping Mode Effectiveness**: Shipping performance is more influenced by operational coordination and planning accuracy than by shipping tier alone.
+
+6. **Structural Inefficiencies**: The report identifies gaps between planning and execution, lack of real-time profit visibility, and fragmented decision-making across pricing, logistics, and operations.
+
+**Strategic Recommendations** include treating delivery as a financial metric, implementing discount governance, deploying predictive logistics, introducing a unified visibility layer, and optimizing high-risk regions like India and China.
+
+The conclusion emphasizes the need for transitioning from cost-driven operations to execution-driven intelligence systems to achieve sustainable supply chain performance.
